@@ -27,6 +27,8 @@ $ ipfs init
 $ npm run dev
 ```
 - 브라우져 확인 : http://localhost:5500/ 
+- <img width="1605" alt="image" src="https://user-images.githubusercontent.com/108014009/175096629-1f72bef3-3fc4-482d-a8de-6c1ccee734dd.png">
+
  
 > ### ipfs server start
 - (ipfs port : 5001, ipfs file prt : 8080)
