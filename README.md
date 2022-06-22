@@ -62,8 +62,9 @@ Daemon is ready
 $ vim /nftstore-polygon-demo/public/javascripts/abi.js
 ```
 - abiobj : ABI
-<img width="375" alt="image" src="https://user-images.githubusercontent.com/108014009/175099226-fa5b84ba-051e-4a06-8d4a-9fca81c56509.png">
 - contractAddress : 스마트 컨트랙 주소
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/108014009/175099226-fa5b84ba-051e-4a06-8d4a-9fca81c56509.png">
+
 
 ## 기타 라이브러리 설치
 > ### python3 설치
