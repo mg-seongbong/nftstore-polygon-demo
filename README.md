@@ -32,6 +32,26 @@ $ npm run dev
 - (ipfs port : 5001, ipfs file prt : 8080)
 ```
 $ ipfs daemon
+Initializing daemon...
+go-ipfs version: 0.10.0
+Repo version: 11
+System version: amd64/linux
+Golang version: go1.16.8
+2022/06/23 02:05:26 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/127.0.0.1/udp/4001/quic
+Swarm listening on /ip4/172.18.0.2/tcp/4001
+Swarm listening on /ip4/172.18.0.2/udp/4001/quic
+Swarm listening on /p2p-circuit
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/127.0.0.1/udp/4001/quic
+Swarm announcing /ip4/172.18.0.2/tcp/4001
+Swarm announcing /ip4/172.18.0.2/udp/4001/quic
+Swarm announcing /ip4/221.163.222.32/udp/49256/quic
+API server listening on /ip4/127.0.0.1/tcp/5001
+WebUI: http://127.0.0.1:5001/webui
+Gateway (readonly) server listening on /ip4/127.0.0.1/tcp/8080
+Daemon is ready
 ```
 
 ## 기타 라이브러리 설치
