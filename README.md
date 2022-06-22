@@ -85,9 +85,3 @@ v14.19.2
 # npm --version
 6.14.17
 ```
-
-> ### truffle 설치
-```
-# npm install -g truffle --unsafe-perm
-# truffle version
-```
